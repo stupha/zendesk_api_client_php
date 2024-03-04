@@ -1,4 +1,4 @@
-# THIS REPOSITORY IS NO LONGER SUPPORTED #
+# THIS REPOSITORY IS NO LONGER OFFICIALLY SUPPORTED #
 
 # Zendesk PHP API Client Library #
 
@@ -26,7 +26,7 @@ The Zendesk PHP API client can be installed using [Composer](https://packagist.o
 
 ### Composer
 
-To install run `composer require zendesk/zendesk_api_client_php`
+To install run `composer require stupha/zendesk_api_client_php`
 
 ### Upgrading from V1 to V2
 
